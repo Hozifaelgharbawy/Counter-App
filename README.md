@@ -4,9 +4,11 @@ Counter App Using React.js
 
 ## Create Counter App that consist of 
 
-CounterContainer.jsx
-Counter.jsx 
-CounterAction.jsx
+- CounterContainer.jsx
+- Counter.jsx 
+- CounterAction.jsx
+-- CounterContainer.jsx is the parent that contains the state and logic. 
+-- State and Functions will be passed via props from parent to child .
 
 ### `npm start`
 
