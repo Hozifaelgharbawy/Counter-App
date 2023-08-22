@@ -1,0 +1,34 @@
+button {
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+
+
+button {
+    background-color: white;
+    color: #008CBA;
+    border: 2px solid #008CBA;
+}
+
+button:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+.reset {
+    background-color: white;
+    color: #c61010;
+    border: 2px solid #c61010;
+}
+
+.reset:hover {
+    background-color: #c61010;
+    color: white;
+}
